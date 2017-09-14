@@ -1,0 +1,10 @@
+<html>
+<form action="/postHandler" method="post">
+	{{range .List}}
+	<input type="checkbox" name="choices" value="{{.}}"><span>{{.}}</span><br>
+	{{end}}
+	<input type="submit" value="Submit">
+
+
+</form>
+</html>

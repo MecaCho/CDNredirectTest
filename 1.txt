@@ -1,0 +1,1 @@
+{"result":["Get message result failed"],"funcList":[{"funcName":"cdn-redirect","version":"0"}]}

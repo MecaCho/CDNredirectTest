@@ -1,0 +1,18 @@
+
+real	0m0.108s
+user	0m0.000s
+sys	0m0.004s
+
+real	0m0.109s
+user	0m0.004s
+sys	0m0.000s
+curl: (52) Empty reply from server
+
+real	0m0.789s
+user	0m0.008s
+sys	0m0.004s
+curl: (52) Empty reply from server
+
+real	0m0.109s
+user	0m0.004s
+sys	0m0.000s
